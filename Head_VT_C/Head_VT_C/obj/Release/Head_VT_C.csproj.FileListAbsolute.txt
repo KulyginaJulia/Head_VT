@@ -1,0 +1,14 @@
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\Head_VT_C.exe.config
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\Head_VT_C.exe
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\Head_VT_C.pdb
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\OpenTK.dll
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\OpenTK.GLControl.dll
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\OpenTK.pdb
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\OpenTK.xml
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\bin\Release\OpenTK.GLControl.xml
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\obj\Release\Head_VT_C.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\obj\Release\Head_VT_C.Form1.resources
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\obj\Release\Head_VT_C.Properties.Resources.resources
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\obj\Release\Head_VT_C.csproj.GenerateResource.Cache
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\obj\Release\Head_VT_C.exe
+C:\Users\Julia\Desktop\Head_VT_C\Head_VT_C\obj\Release\Head_VT_C.pdb
